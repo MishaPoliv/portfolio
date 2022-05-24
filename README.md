@@ -19,17 +19,29 @@ You can view or download my CV as [PDF in Google Docs](https://drive.google.com/
 
 ## Technical skills
 
-- MySQL
-- HTML, CSS
+- Creating test cases
+- Software testing
+- Reporting bugs
+- GIT
+- DevTools
+- SCRUM
+- Ability to set up virtual machines
+- Java basics
+- SQL (phpMyAdmin, Oracle SQL dev)
+- HTML
+- CSS
 - PHP
-- JavaScript
+- JavaScript basic
+- jQuery basic
 
 ## Tools
 
-- Jira
-- Charles Proxy
-- Postman
-- PHPStorm
+- Jira - Issue tracking and project management tool for developer.
+- Charles Proxy - A cross-platform HTTP debugging proxy server application.
+- Postman - Testing tool for REST API.
+- PHPStorm - cross-platform IDE for PHP.
+- VirtualBox - A free and open-source hosted hypervisor.
+- GitHub - A provider of Internet hosting for software development and version control using Git.
 
 ## Example of my work
 
