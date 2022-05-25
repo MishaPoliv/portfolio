@@ -2,8 +2,9 @@
 
 - [About me](https://github.com/MishaPoliv/portfolio/edit/main/README.md#about-me)
 - [CV](https://github.com/MishaPoliv/portfolio/edit/main/README.md#cv)
-- [Tech skills](https://github.com/MishaPoliv/portfolio/edit/main/README.md#technical-skills)
+- [Technical skills](https://github.com/MishaPoliv/portfolio/edit/main/README.md#technical-skills)
 - [Tools](https://github.com/MishaPoliv/portfolio/edit/main/README.md#tools)
+- [My courses and certificates](https://github.com/MishaPoliv/portfolio/edit/main/README.md#my-courses-and-certificates)
 - [Example of my work](https://github.com/MishaPoliv/portfolio/edit/main/README.md#example-of-my-work)
   - [Test case](https://github.com/MishaPoliv/portfolio/edit/main/README.md#test-case)
   - [Bug report](https://github.com/MishaPoliv/portfolio/edit/main/README.md#bug-report)
@@ -22,6 +23,7 @@ You can view or download my CV as [PDF in Google Docs](https://drive.google.com/
 - Creating test cases
 - Software testing
 - Reporting bugs
+- Testing REST API
 - GIT
 - DevTools
 - SCRUM
@@ -35,12 +37,17 @@ You can view or download my CV as [PDF in Google Docs](https://drive.google.com/
 
 ## Tools
 
-- **Jira** - Issue tracking and project management tool for developer.
-- **Charles Proxy** - A cross-platform HTTP debugging proxy server application.
-- **Postman** - Testing tool for REST API.
-- **PHPStorm** - cross-platform IDE for PHP.
-- **VirtualBox** - A free and open-source hosted hypervisor.
-- **GitHub** - A provider of Internet hosting for software development and version control using Git.
+- **Jira** - *Issue tracking and project management tool for developer.*
+- **Charles Proxy** - *A cross-platform HTTP debugging proxy server application.*
+- **Postman** - *Testing tool for REST API.*
+- **PHPStorm** - *Cross-platform IDE for PHP.*
+- **VirtualBox** - *A free and open-source hosted hypervisor.*
+- **GitHub** - *A provider of Internet hosting for software development and version control using Git.*
+
+## My courses and certificates
+
+*Training center IT-specialists "SkillUp",* **PHP – developer**\
+**certificate: xxx**
 
 ## Example of my work
 
