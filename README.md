@@ -46,7 +46,7 @@ You can view or download my CV as [PDF in Google Docs](https://drive.google.com/
 
 ## My courses and certificates
 
-*Training center IT-specialists "SkillUp",* **PHP – developer**\
+*Training center IT-specialists "SkillUp",* **PHP – developer**<br>
 **certificate: xxx**
 
 ## Example of my work
@@ -55,11 +55,12 @@ You can view or download my CV as [PDF in Google Docs](https://drive.google.com/
 
 ### Test case
 
-
+For example, my [**Test Case** *in Google Docs*](https://docs.google.com/spreadsheets/d/1951-beqg6YqAi1tmZGQ03POFUh1Pqa8Ogj4ZLsY_moc/edit?usp=sharing)<br>
+And example, my [**CheckList** *in Google Docs*](https://docs.google.com/spreadsheets/d/1XDKSxIMICXTyAA9DxrSlhcYRsA5M7FRnybKX0Gdj29M/edit?usp=sharing)
 
 ### Bug report
 
-
+For example, my [**Bug Report** *in Jira (screenshot)*]()
 
 ## Books
 
