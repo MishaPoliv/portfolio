@@ -5,9 +5,8 @@
 - [Technical skills](https://github.com/MishaPoliv/portfolio/edit/main/README.md#technical-skills)
 - [Tools](https://github.com/MishaPoliv/portfolio/edit/main/README.md#tools)
 - [My courses and certificates](https://github.com/MishaPoliv/portfolio/edit/main/README.md#my-courses-and-certificates)
-- [Example of my work](https://github.com/MishaPoliv/portfolio/edit/main/README.md#example-of-my-work)
-  - [Test case](https://github.com/MishaPoliv/portfolio/edit/main/README.md#test-case)
-  - [Bug report](https://github.com/MishaPoliv/portfolio/edit/main/README.md#bug-report)
+- [Test case and CheckList](https://github.com/MishaPoliv/portfolio/edit/main/README.md#test-case-and-CheckList)
+- [Bug report](https://github.com/MishaPoliv/portfolio/edit/main/README.md#bug-report)
 - [Books](https://github.com/MishaPoliv/portfolio/edit/main/README.md#books)
 
 ## About me
@@ -49,16 +48,12 @@ You can view or download my CV as [PDF in Google Docs](https://drive.google.com/
 *Training center IT-specialists "SkillUp",* **PHP – developer**<br>
 **certificate: xxx**
 
-## Example of my work
-
-
-
-### Test case
+## Test case and CheckList
 
 For example, my [**Test Case** *in Google Docs*](https://docs.google.com/spreadsheets/d/1951-beqg6YqAi1tmZGQ03POFUh1Pqa8Ogj4ZLsY_moc/edit?usp=sharing)<br>
 And example, my [**CheckList** *in Google Docs*](https://docs.google.com/spreadsheets/d/1XDKSxIMICXTyAA9DxrSlhcYRsA5M7FRnybKX0Gdj29M/edit?usp=sharing)
 
-### Bug report
+## Bug report
 
 For example, my [**Bug Report** *in Jira (screenshot)*]()
 
@@ -66,3 +61,6 @@ For example, my [**Bug Report** *in Jira (screenshot)*]()
 
 
 1. "Testing Dot Com, or allowance for the abuse of bugs in Internet startups" R.Savin 2017
+
+
+[↑ go UP ↑](https://github.com/MishaPoliv/portfolio/edit/main/README.md#portfolio) 
