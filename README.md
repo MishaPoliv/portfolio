@@ -5,8 +5,7 @@
 - [Technical skills](https://github.com/MishaPoliv/portfolio/edit/main/README.md#technical-skills)
 - [Tools](https://github.com/MishaPoliv/portfolio/edit/main/README.md#tools)
 - [My courses and certificates](https://github.com/MishaPoliv/portfolio/edit/main/README.md#my-courses-and-certificates)
-- [Test case and CheckList](https://github.com/MishaPoliv/portfolio/edit/main/README.md#test-case-and-CheckList)
-- [Bug report](https://github.com/MishaPoliv/portfolio/edit/main/README.md#bug-report)
+- [Examples of my work](https://github.com/MishaPoliv/portfolio/edit/main/README.md#examples-of-my-work)
 - [Books](https://github.com/MishaPoliv/portfolio/edit/main/README.md#books)
 
 ## About me
@@ -48,14 +47,20 @@ You can view or download my CV as [PDF in Google Docs](https://drive.google.com/
 *Training center IT-specialists "SkillUp",* **PHP – developer**<br>
 **certificate: xxx**
 
-## Test case and CheckList
+## Examples of my work
 
-For example, my [**Test Case** *in Google Docs*](https://docs.google.com/spreadsheets/d/1951-beqg6YqAi1tmZGQ03POFUh1Pqa8Ogj4ZLsY_moc/edit?usp=sharing)<br>
-And example, my [**CheckList** *in Google Docs*](https://docs.google.com/spreadsheets/d/1XDKSxIMICXTyAA9DxrSlhcYRsA5M7FRnybKX0Gdj29M/edit?usp=sharing)
+### Test case and CheckList
 
-## Bug report
+- My [**Test Case** *in Google Docs*](https://docs.google.com/spreadsheets/d/1951-beqg6YqAi1tmZGQ03POFUh1Pqa8Ogj4ZLsY_moc/edit?usp=sharing)<br>
+- My [**CheckList** *in Google Docs*](https://docs.google.com/spreadsheets/d/1XDKSxIMICXTyAA9DxrSlhcYRsA5M7FRnybKX0Gdj29M/edit?usp=sharing)
 
-For example, my [**Bug Report** *in Jira (screenshot)*]()
+### API request analysis
+
+- My [**API request analysis** *in Google Docs*](https://docs.google.com/spreadsheets/d/1RtvVTa9IbWdCB3vwp3GbBvDf19U1elxoeq6PQq43TRI/edit?usp=sharing)
+
+### Bug report
+
+- My [**Bug Report** *in Jira (screenshot)*](https://drive.google.com/file/d/1LgbSdHyrJaMUsHHvIgvUMwkA9psMtggd/view?usp=sharing)
 
 ## Books
 
