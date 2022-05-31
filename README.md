@@ -5,7 +5,7 @@
 - [Technical skills](https://github.com/MishaPoliv/portfolio#technical-skills) 
 - [Tools](https://github.com/MishaPoliv/portfolio#tools)
 - [My courses and certificates](https://github.com/MishaPoliv/portfolio#my-courses-and-certificates)
-- [Examples of my work](https://github.com/MishaPoliv/portfolio/edit/main/README.md#examples-of-my-work)
+- [Examples of my work](https://github.com/MishaPoliv/portfolio#examples-of-my-work)
 - [Books](https://github.com/MishaPoliv/portfolio#books)
 
 ## About me
