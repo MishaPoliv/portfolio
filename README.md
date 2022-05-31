@@ -1,12 +1,12 @@
 # Portfolio
 
-- [About me](https://github.com/MishaPoliv/portfolio/edit/main/README.md#about-me)
-- [CV](https://github.com/MishaPoliv/portfolio/edit/main/README.md#cv)
-- [Technical skills](https://github.com/MishaPoliv/portfolio/edit/main/README.md#technical-skills)
-- [Tools](https://github.com/MishaPoliv/portfolio/edit/main/README.md#tools)
-- [My courses and certificates](https://github.com/MishaPoliv/portfolio/edit/main/README.md#my-courses-and-certificates)
+- [About me](https://github.com/MishaPoliv/portfolio#about-me)
+- [CV](https://github.com/MishaPoliv/portfolio#cv)
+- [Technical skills](https://github.com/MishaPoliv/portfolio#technical-skills) 
+- [Tools](https://github.com/MishaPoliv/portfolio#tools)
+- [My courses and certificates](https://github.com/MishaPoliv/portfolio#my-courses-and-certificates)
 - [Examples of my work](https://github.com/MishaPoliv/portfolio/edit/main/README.md#examples-of-my-work)
-- [Books](https://github.com/MishaPoliv/portfolio/edit/main/README.md#books)
+- [Books](https://github.com/MishaPoliv/portfolio#books)
 
 ## About me
 
@@ -51,16 +51,16 @@ You can view or download my CV as [PDF in Google Docs](https://drive.google.com/
 
 ### Test case and CheckList
 
-- My [**Test Case** *in Google Docs*](https://docs.google.com/spreadsheets/d/1951-beqg6YqAi1tmZGQ03POFUh1Pqa8Ogj4ZLsY_moc/edit?usp=sharing)<br>
-- My [**CheckList** *in Google Docs*](https://docs.google.com/spreadsheets/d/1XDKSxIMICXTyAA9DxrSlhcYRsA5M7FRnybKX0Gdj29M/edit?usp=sharing)
+- Example of my [**Test Case** *in Google Docs*](https://docs.google.com/spreadsheets/d/1951-beqg6YqAi1tmZGQ03POFUh1Pqa8Ogj4ZLsY_moc/edit?usp=sharing)<br>
+- Example of my [**CheckList** *in Google Docs*](https://docs.google.com/spreadsheets/d/1XDKSxIMICXTyAA9DxrSlhcYRsA5M7FRnybKX0Gdj29M/edit?usp=sharing)
 
 ### API request analysis
 
-- My [**API request analysis** *in Google Docs*](https://docs.google.com/spreadsheets/d/1RtvVTa9IbWdCB3vwp3GbBvDf19U1elxoeq6PQq43TRI/edit?usp=sharing)
+- Example of my [**API request analysis** *in Google Docs*](https://docs.google.com/spreadsheets/d/1RtvVTa9IbWdCB3vwp3GbBvDf19U1elxoeq6PQq43TRI/edit?usp=sharing)
 
 ### Bug report
 
-- My [**Bug Report** *in Jira (screenshot)*](https://drive.google.com/file/d/1LgbSdHyrJaMUsHHvIgvUMwkA9psMtggd/view?usp=sharing)
+- Example of my [**Bug Report** *in Jira (screenshot)*](https://drive.google.com/file/d/1LgbSdHyrJaMUsHHvIgvUMwkA9psMtggd/view?usp=sharing)
 
 ## Books
 
