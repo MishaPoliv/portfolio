@@ -68,4 +68,4 @@ You can view or download my CV as [PDF in Google Docs](https://drive.google.com/
 1. "Testing Dot Com, or allowance for the abuse of bugs in Internet startups" R.Savin 2017
 
 
-[↑ go UP ↑](https://github.com/MishaPoliv/portfolio/edit/main/README.md#portfolio) 
+[↑ go UP ↑](https://github.com/MishaPoliv/portfolio#portfolio) 
