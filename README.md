@@ -45,7 +45,7 @@ You can view or download my CV as [PDF in Google Docs](https://drive.google.com/
 ## My courses and certificates
 
 *Training center IT-specialists "SkillUp",* **PHP – developer**<br>
-**certificate: xxx**
+**certificate: DP 00047**
 
 ## Examples of my work
 
